@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**kabeertech123/kabeertech123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kabeer, A CS student based in the UK
 
-Here are some ideas to get you started:
+I design & build whatever I love
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If a thought comes to mind, chanes are I'll build it & ship it.
+
+I am currently learning HTML, CSS and Javascript, working towards becoming a front-end engineer
+
+**Fun Facts:**
+	
+  •	☕ Run on coffee
+  •	⚔️ Bleach is my favourite anime
+  •	🎮 Play League of Legends (always trying to improve)
+  •	📚 Into character analysis & story/worldbuilding.
+  
+  
+  
+
