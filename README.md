@@ -16,8 +16,7 @@ I am currently learning HTML, CSS and Javascript, working towards becoming a fro
   
   •	🎮 Play League of Legends (always trying to improve)
   
-  •	📚 Into character analysis & story/worldbuilding.
-  
+
   
   
 
