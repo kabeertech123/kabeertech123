@@ -16,7 +16,7 @@ Was learning HTML, CSS and Javascript for front-end but that will be worked on a
   
   •	⚔️ Bleach is my favourite anime
   
-  •	🎮 Play League of Legends (always trying to improve)
+  •	🎮 Play tons of video games
   
 
   
