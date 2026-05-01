@@ -6,9 +6,7 @@ I design & build whatever I love
 
 If a thought comes to mind, chanes are I'll build it & ship it.
 
-I am currently learning Java working towards becoming a good apprenticeship or uni 
-
-Was learning HTML, CSS and Javascript for front-end but that will be worked on as a side project of mine
+I am currently experimenting with different languages and working towards becoming a good apprenticeship or uni 
 
 **Fun Facts:**
 	
